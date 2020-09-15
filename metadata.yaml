@@ -1,0 +1,34 @@
+_repo: Description-of-the-Process-of-Manufacturing-Coal-Gas-for-the-Lighting-of-Streets-Houses-and-P__63117
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Accum, Friedrich Christian
+    aliases:
+    - Accum, Frederick
+    - Accum, Fredrick
+    birthdate: 1769
+    deathdate: 1838
+    gutenberg_agent_id: '8418'
+    url: http://www.gutenberg.org/2009/agents/8418
+    wikipedia: https://en.wikipedia.org/wiki/Friedrich_Accum
+description: ''
+gutenberg_issued: '2020-09-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63117'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HD'
+- !lcsh 'Gas-lighting'
+- !lcsh 'Gas manufacture and works -- Great Britain'
+- !lcc 'TP'
+- GITenberg
+title: "Description of the Process of Manufacturing Coal Gas, for the Lighting of\
+  \ Streets Houses, and Public Buildings\r\nWith Elevations, Sections, and Plans of\
+  \ the Most Improved Sorts of Apparatus Now Employed at the Gas Works in London and\
+  \ the Principal Provincial Towns of Great Britain; Accompanied With Comparative\
+  \ Estimates, Exhibiting the Most Economical Mode of Procuring This Species of Light"
+url: http://www.gutenberg.org/ebooks/63117
